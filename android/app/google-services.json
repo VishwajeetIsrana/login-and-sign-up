@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417875287159",
+    "project_id": "login-sign-up-74668",
+    "storage_bucket": "login-sign-up-74668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417875287159:android:e5295bbc858142088a3a72",
+        "android_client_info": {
+          "package_name": "com.vishwa.login_signup_activity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xIu_mwbhOKjjQ4jhx2C5rXSFeovA1fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

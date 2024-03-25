@@ -1,4 +1,4 @@
-package com.example.login_signup_activity
+package com.vishwa.login_signup_activity
 
 import io.flutter.embedding.android.FlutterActivity
 

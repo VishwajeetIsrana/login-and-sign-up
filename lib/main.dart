@@ -1,5 +1,10 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:login_signup_activity/login.dart';
+import 'package:login_signup_activity/new_notification.dart';
+
+final navigationKey = GlobalKey<NavigatorState>();
 
 void main() {
   runApp(const MyApp());
